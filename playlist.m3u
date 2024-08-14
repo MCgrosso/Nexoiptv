@@ -28,6 +28,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Cocina" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-id="", Tastemade en Español (1080p)
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
+https://videohd.live:19360/8016/8016.m3u8
+
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" tvg-id="", Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 
