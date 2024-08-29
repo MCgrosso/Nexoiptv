@@ -13,6 +13,9 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtYEkJ4POk9VFIV2vgjPCr_uDWVMe7OllZe4Eyp8CeiVxf6zx878KqWaqMWCGJL2bi4V0C_VCT4giIJkRAyV3PQtoS3pmA_kLotlZzFG3hlW3ghjcxJ_LKvtIVEh6o7Cu1cPjsvft5M2fa6xLOkryQlwE_XztcMnnEheGjG0_FnorGdXILzcIAi1L5V0dtH-anV9YubP7xeXYDmYRETGW_W6rJtoGBTekzkCp3wDGW9yacPlZbgnYj0le-o9pYHA_hpI7kBARX59wbZNG537y14isXW81STMlztUPUJGOs07Pv98GfBrKw4f63IofISgsxEjHON5zjkWH1XN4vnRI1Sd0iN60cobJHluQapUdjqVQzsHyB_liXHAj7hWidVkanNhGEqJH68Qhp5DdykpjLaz4S58jmScrEGO_ZS0Yjuad_W-DH2PrwGrgO-Cr9iutVfqlDvBAZWpucUsnxu8IQ-0P4Sv49pKkFi7PCus4uzOZ8B7VwyrFXNNnn6kom_Beap69k52aSCi9pQ10e6eZxfTLjfBXV0vSkw4b3kRh4CQl14ZtOQXwu4-WSxVEc1Tmswl5w8aWVa4hbXr2sFcgAWCMfs8G5MLOggF54WD58u8DObiSeu5UNojLUjx5gjZV-eUaQbwTksgS6jYDRGaFCjD3FYBykn7WhwHhFPaa9h8_Z58tcToBPCuSISbvqwI-TSsyIN9MnsAUvLP1WvC7vAE8D0jjWvtJLHiWRS1307-BEYf-GrTzOC5au7VM7P6-W0xP8GQUP8RcwDL5_RghYoFgkHGjVsxSRoM1GgYLvX5YjLJV2qgIAEqCXVzLXdlc3QtMjCgCg.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -81,6 +84,3 @@ http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe (3)
 http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" tvg-id="", TNT Sports
-http://45.5.151.151:8000/play/a002/index.m3u8
