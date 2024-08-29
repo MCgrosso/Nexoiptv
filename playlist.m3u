@@ -17,7 +17,7 @@
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
-https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/Cs4EH5P9IcEFsdUQOADk4Cx5U2RdjbmQA8Oa1DQEgsMraEa4I85dizGStyWWOmvoWHh2K2qR5NQkLfOb33VoiGmXkKq-Wf7KQ1z8fP47LK5ym0QF_KTYyM0tqL03rlIzuJA1HYp8UaANUXqb9wMA1brRronQ7kHRZSLktSPiUOS_O_s6xyYVv6L7pZUeOOqwgsIEonavrvnkRRuTPDAOpvOd9ULqR__VSD_9ZtYwRUZIA5YGWute_-Stz1ZMUYu_kxaEIUe_qC1R2uPOpBUs8Hf3qBtBrXoyEBiRjKs-F7Xt1DD_SEqUqrr4fGOnKQ5j8SNOEjORmaHwMaavSo-jEppEwBz9wu1cta5EXuHDyZq1Kh85Rmb7ikipyk8kWWO811wzEWnZi909rZ4qAGHXlfsjYB-pNjstFix_a-WsqCFGzNc6Mk45IFjroWIyrt72C4oybhxfEoVWEYUy-0vwFV7GgYAnMPQIWOhsF_xPq4RQPZq-ahHsk6MQ7wrmAGnOhhpNZfBPNPkiGH3HXdabcNizPsK9HSFIzYs-MGkP3rPR8zKUsOeiOAQti4WraTrMK6JH2KLcIcfXWxEm2E2AJX4U7w66Dhe2llA3NexQfg7IclD29hwoYukpR9BwEbDaTnvuNstL09dvWVhrJ4Okisoh_3EhTmw9FY1iW2HMLkoyGDldLFuO1JQoyILssg-3X3Rzriu1p0F8sQ3ukLvAYWmLwnxqhOg0EkzcnWFaq5LmkRvpacbMvfUFj1XpeuE65YcCxE5J6ffywu4Y8c9Y17UaDDwfVC_8IPlWeJi8XyABKgl1cy1lYXN0LTIwnwo.m3u8
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CtAEQzxzq8qq22uODwbHJy0zxNODUrgpWQUCwQbKRNDufnURqzoVI3DTue0vZAQVRNAgGyKgtZPsEriPnvDs6WMM4xc4ZQWryBxiWYL3i8Adc0GDuu53Y2Km1xEOEq6lmStJ36thoLGcrReXj2EAom3CRYf7YZ3uBvBM3K2D-LxIDJ5Oi_E8dl_yRxtfDcCaj4k85XTbdi2SOp9ubXbMVoLv7Hvqa4mxDMHwf7bAuBAo_fP093W7oqt7eCLuUXY8r6pmQtyE0yZ9TBMqELtkJupmKzZZFk2o722WEAnuLwiBNvFrNvd5uqzPSXlhhW-emGPT3hdgwAWru2zpsSSdWK0pm1v6lh1HXUx3UGmDgwGPWBRv3fgSgZpjYp8pkd_HA_YbCkPM4iFVZ06hGqIZ6NtiK-KWVDB2ZBwT1y7NfGHv8ORaieyRs8a8ehRe2OSAsEkpBd8rYCFgssDIQ84U2QzhwxpiaGJ3oNqq-i42KqFCpjP_cBuQj58-kkrSK-tlOTUAk53vp75_kZC8LDerepWFSlIHQto3z8_zJkaD6LNQVummgWDwZFc4bBIk44Tzu9hCJUz6DaWQCS4n06Z2-cZOaSz-1PnWvzxZh4PuMfZTDbOrUBL3c1xgr8J9JSDYkCX2VUsuzD1wMyAqcV8hyV_993U9lh8UASvmTMkiRiz75p1h7hzPlfN_YhGGGTslCNrSlOqRqTUKAWLyOZwp4T266OXrOhl8d8NKAxa0DNfWcV0B7xTnl-3uGOwGJsjRthS33AviHlT7IdFE-jGlddfLeRoMO7CeYln9VBhPw9TeIAEqCXVzLWVhc3QtMTDWCA.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -81,3 +81,6 @@ http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe (3)
 http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" tvg-id="", TNT Sports
+http://45.5.151.151:8000/play/a002/index.m3u8
