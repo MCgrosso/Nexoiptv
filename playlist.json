@@ -30,35 +30,6 @@
   },
   {
     "id": "",
-    "name": "Telefe  streaming",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Streaming"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CtAEQzxzq8qq22uODwbHJy0zxNODUrgpWQUCwQbKRNDufnURqzoVI3DTue0vZAQVRNAgGyKgtZPsEriPnvDs6WMM4xc4ZQWryBxiWYL3i8Adc0GDuu53Y2Km1xEOEq6lmStJ36thoLGcrReXj2EAom3CRYf7YZ3uBvBM3K2D-LxIDJ5Oi_E8dl_yRxtfDcCaj4k85XTbdi2SOp9ubXbMVoLv7Hvqa4mxDMHwf7bAuBAo_fP093W7oqt7eCLuUXY8r6pmQtyE0yZ9TBMqELtkJupmKzZZFk2o722WEAnuLwiBNvFrNvd5uqzPSXlhhW-emGPT3hdgwAWru2zpsSSdWK0pm1v6lh1HXUx3UGmDgwGPWBRv3fgSgZpjYp8pkd_HA_YbCkPM4iFVZ06hGqIZ6NtiK-KWVDB2ZBwT1y7NfGHv8ORaieyRs8a8ehRe2OSAsEkpBd8rYCFgssDIQ84U2QzhwxpiaGJ3oNqq-i42KqFCpjP_cBuQj58-kkrSK-tlOTUAk53vp75_kZC8LDerepWFSlIHQto3z8_zJkaD6LNQVummgWDwZFc4bBIk44Tzu9hCJUz6DaWQCS4n06Z2-cZOaSz-1PnWvzxZh4PuMfZTDbOrUBL3c1xgr8J9JSDYkCX2VUsuzD1wMyAqcV8hyV_993U9lh8UASvmTMkiRiz75p1h7hzPlfN_YhGGGTslCNrSlOqRqTUKAWLyOZwp4T266OXrOhl8d8NKAxa0DNfWcV0B7xTnl-3uGOwGJsjRthS33AviHlT7IdFE-jGlddfLeRoMO7CeYln9VBhPw9TeIAEqCXVzLWVhc3QtMTDWCA.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"
-  },
-  {
-    "id": "",
     "name": "America  Tv",
     "alt_names": [
       ""
@@ -288,6 +259,35 @@
     "replaced_by": "",
     "website": "https://panel.dattalive.com/8012/8012/playlist.m3u8",
     "logo": "https://i.imgur.com/PjlAB6x.jpg"
+  },
+  {
+    "id": "",
+    "name": "Telediez (360p) [Not 24/7]",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://videohd.live:19360/8020/8020.m3u8",
+    "logo": "https://i.imgur.com/cm4NOuM.jpg"
   },
   {
     "id": "",
