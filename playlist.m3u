@@ -13,6 +13,9 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CtUEZvuFaQgjY2LM--WSApOyLW0vPTRdvVKKwKZTUDpiIaQ5Gk0eJxpr4XTtbPI0-EGYU9oc6gD3PPH3y4xeDwVmDyRQRvbWYW-boWjwn8d0ti7XNBGqfuBpUEyyHRCrZ3HZMOGg-jx9tydpPNXJL2z-jZhM96N-05W2QujuSAl8bYjjHG9tWm-ZXnTiJtXPYySgwMkgL3yopWkD8V-xXKgJRPGLFpm362Xp7tnOhsCcA97Yg_H0EAwXiu_Devy2pWqyMBbEo2iZz_qiX-GOgNWOciRuVEDODz9N2zyj-QwXUqkLiOP5RYxFxFXVPyxLZVwUHH8IVUfUVCdtH-jodnZEiKnDYtQX-iJffbwjNoLj17G4KsB6G3qjcc4rS7t_Fe1JVdDW-PKCizRUUL6czCKK86SVgHqvBFUsqur38f66_KNyA58sgstXIF2akvNCUEJfU8lJlQWeC0DLZCn__nzCe5kRYpYBwhtk2O72y3pTmixGYSCMk85EDy8Po_w_wYJgL6L3yL3-wKRfopWc5GgZC3Emnj_hAfeaR2SHiud4tUkb-osai6fWolyFa6wTK8q7Y_NJ6U_t85aToxaJouG7eJ4q8sdwMMYdDO5wVYAO-YLWxM9f2ShvZqZDL3X9ge8GgUmWmpTnDrj5ACZuw0ElLgEXUDpSlrdQfSQwMxCHYqTo6v4NUjVsu6uMC49CAk1YCyKJZ2wy4ENfP0Lx-my3qhDAPHCck_jwbk4pVYGeGCphmRqsAql7qAQFIfLybN_x63OVMKF9paGy91__RIzzB7RE7sn0GgzSzRnz_ztBCR_heN0gASoJdXMtZWFzdC0xMNoI.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -25,8 +28,8 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" tvg-id="", El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 group-title="Cocina" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-id="", Tastemade en Español (1080p)
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/91920f8c1ac64beaaf70f7fbc09982c8.png" tvg-id="", Somos La Pampa (1080p)
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
