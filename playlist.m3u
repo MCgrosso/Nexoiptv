@@ -13,6 +13,9 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CtkEYTe_YYH5sGf-y8f9BTy1uvq8s4O_Q-rekhH8I1RWScP1SHPNnr7tQL2csr0cZ6d4hhrWjkXbkcKK5_fo-hA8SCfljpI6hyfKvXSNR89gmfMXYChM_avmisk0gUyP2xwn1p1CPyr_Vu-EuZVVfQfgT8C9lysaCphdYJ4e0ttZvEJYQGjYwxVRUEZ8xARKZLKgib7WUDTtw_zIeW2U2iMW1DD1MR9F3MabtjAdaiTM080cAswsIpcMmMKQxJigobCW9dS14QDY7KuDrUVwF_0EesYijVNTV0G0CaqTYwW_YpbW5hg_bEYVRkbV5Wa5cKSbmE_Hc6Uy8R7mz0oxg1mPi5BczyZguhOJWvccFHfFqeGGnNGILE7ZeNin69-hcXURF-LgTdFMmUjGw38YMTw9jw57sr2P62PhN11uch3zv6QGe3rqs8fOECef1s_fzqLZGIm3xENRC4IAHzKPRu_DhNrlaZzXxcNffKfIiPv3Z37xA3SE2JLQP6NO4XO4W7UlhoZxd2tqBMCI02cwa0PG-yENcCQL2gzWx3o7NUAMToUJd-yakcSsRopuB94UU6LKXy3alHHf7vv7ICSwvcpuUTpBb969oeWFgD8b-nU5EeOY4PEpkSlg7BzYaozzYthiJJrsztg1rHWTgIgQRVO-Mx4bcqXmizEFOU65RGcfeoJMaRpGqh2N9ANNTpln0JDoJsrkrCBEq0gHjhzHwFkOjxoldrL7iCKoBXcO7e4BonkTHqOlT8Peynp_XnrursA72bWgK9pWyROZU5TquybGn-EemwLSM0vJSxoMsZ9fh-0Vy75coaZ3IAEqCXVzLWVhc3QtMjCqCg.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -72,6 +75,3 @@ http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe (3)
 http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" tvg-id="", TNT Sports
-http://45.5.151.151:8000/play/a002/index.m3u8
