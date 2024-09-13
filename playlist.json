@@ -30,35 +30,6 @@
   },
   {
     "id": "",
-    "name": "Telefe  streaming",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Streaming"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cs8EoVRUdX--HNzjGxG2KWbHAPIQfsNGMd0IuXBO5jvI4bVHSIyRtw6hfe_fv-VWtfY6VfJOF021N-VC9GIzh_5CDpdA1x6z03MBYiHBCJY96E6IY-NHRDy-jDriqHaX_cyucGFa36wnI8VZOfTi254f5nqBVElJXX_UuauIJRzEG78rcx2fHQemYzk-ur9NUuhY_baiLNp3rkFmSMCEEwVFPb6MlPbo4W6KcQySBIlviDqW8UbqZNYYjNFDjQGMdcRPrjLG_h3lEDRxPKQyq-hPdQfnFKxTotgR92VtPLXIAX5BiMgQ04MyExoAXg-e2bTuhZAfwxzxy0GJ52Hp7O8dRfeKyuKozGU79Wc7Vz7cC5FBz22SHTutMD3tr_4y6dwxwkpFEIcciJVBIzxYjtHyVk52WN9O0oq6b78Vpl5mWK350__N-reoXBj2c79Rt4EtYyJiSFiwoUHo_rOVEo54h3HC2GJRppGq1aqb4-ALma22R3Muk7p15mMbUzKuLFu5apMZJtcIvcKGf664LjiqTLRt72HalXNCXL6CaASYrpUL9i4cMoM579WctOge8qFnrJIJ3YQgfrUSPy6Rlv-BLgJscYsZ9CAx2HmdHVb_t71dpIHvgz1oapdj0nCs-EP6DLW4GkjUYxgRw9rpqNJxKxPV26EmMKLZ_BQOtFbDY9srwgVJQIb0BkglSYOrCrintWNp5VECbl1z_Zg1WUtnN1LtI2U3wkZ9-ysHaCvT_tSoDout0O84qZybFQcWbEXrYcCnvjyiD779lfuj0p68Ggw1WPAD-_0VaZjB-CQgASoJdXMtd2VzdC0yMK8K.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"
-  },
-  {
-    "id": "",
     "name": "America  Tv",
     "alt_names": [
       ""
@@ -230,6 +201,35 @@
     "replaced_by": "",
     "website": "https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8",
     "logo": "https://i.ibb.co/zbR9qhb/descarga.jpg"
+  },
+  {
+    "id": "",
+    "name": "Telecreativa (720p)",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://panel.dattalive.com/8012/8012/playlist.m3u8",
+    "logo": "https://i.imgur.com/PjlAB6x.jpg"
   },
   {
     "id": "",
