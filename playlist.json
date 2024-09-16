@@ -1,6 +1,35 @@
 [
   {
     "id": "",
+    "name": "MundoBoca",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Streaming"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CtgEhQHu_0kK_sbpRPSqO4vHdR9plQyGVYsM2MHiHWsrjaChTRqOJ1RVyx48kdPD8aBbc04ERQtgwtH1oj1pmxkbHSlZFjxSdG34czwsgkCyH5KTX4yueiKo7SwY_8A5e6Vmw27HjARqBl3gFOe71SkC4xNlVdt3VbQfwE35ZjGh-1MOuMZijBHXl89EkD7Wf4roNUTPnEpvfrQ2z9tTR3sY4ycD1h5YFHsCAn76igdUbW0255LLapeuW6WAhIn9_mSNK1cfOJrVisY5vudu6rkBuEr6QV3SbgOK-G526cAKp42HWtWiOrNzEOuwds-c72ZeKZ3hFtPG7gEBDaQMFx_wTnq7TpwY1TCZv9w09LQmTqqtaakGzr2ZtCtdfY-Zx-YkaReVuxBxL9bntIlahFzNbgyxIs_y142gB63Qa3B-Bazs0Fx_uG4rCuTj_M7gf_4SBvb-fA_a-eMAIkfHDnm_du4dNEeLniWRvOF7o7aC_77ScWXSJoAVrQaOjNBLmJesBZDfA0zSfGXCBAkC7_3lSf-Wtn14OVccVowcWUtLwYRO6E7lcEPj3nOG7IpmdI24hUxfp18mTDlosKBHeo4eDKu0EkDlnXW4qZG5U9pPbUU2j39ywZxIU3Htz38BjzXbMJTZ224GZmLqp7H8iFPVXeObcGad6FoZwrTRsTQWnTRkwdgUom7VZ-x30bsQ3c5Tch9Q4CgobKscVRrW6TpHLSSAUG9c-OLjkT7U7xqPN4x8ptEHrzHmpz2pR4mSKeOFA1bXsLF4HsoJUtVEr9sixKX2WoQcNrgTGgx310Bp9vZU6aGEwUwgASoJdXMtZWFzdC0yMLEK.m3u8",
+    "logo": "https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "",
     "name": "ElTrece",
     "alt_names": [
       ""
@@ -636,5 +665,34 @@
     "replaced_by": "",
     "website": "http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"
+  },
+  {
+    "id": "",
+    "name": "TNT Sports",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Deportes"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://45.5.151.151:8000/play/a002/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png"
   }
 ]
