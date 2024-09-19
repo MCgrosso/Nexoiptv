@@ -16,6 +16,9 @@
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CtAE5VGOZEjoyFgLnHN97M_LiN-RuprfdXiYYeu5go6Tn7zYam63-GwsfgfSp7SztGE5bdraD3bcACEqIDhu9LT31kNMFRf6QoxX2XAbqY4a0POvs9L4SIQptt41MJa1SnNVcIW7lqyLw-VW6OglcO1zeeA_hq-c4tVSBMedMvHUUbzaRffu9YEpii_ICl1hz1d5R-gzoMp5iqmnmpKybnIrKNlRB2WwGAQ98HL1oSSf2o6922Up60DFX0wWI0fYDJRVz16uu-_dGaooib2Ti5Qw4si0Ve9b7B2txBt4sibpbPaMoV8ZHKn51ZfGMld6HhF_0I9DAXPnA94c7e-V1E8YhxrsLOWXxwwd3nQXc58dsqd_PYu8bHxz2cYMxqzyb0ZVxlcch6eSJ4ZdEwYPagLh1sQOg7fBK4IZBk0IAiw4FLrHXgoj6LNmsPu6N3EM6Q5wVoTzBFc74LhU9_kDgQJ-uBeHhVn_fnFHc31ld0LexlGytQ4GZJwpN3KL9p5SyrjL2vW85SfKOXGQtp4_Js6mvgIXnj-fj3DAqUYTH34tm8ynOrlY1F22oK1Y6bhpUSi_uQz2FeHCN-Bqm--w36bNu8zPqhzmy_eln9wJcPikjpK9VK6ghiiRK3xEDTYVeCbEbHto1Bu8qlILVfew7CDLqnE7LBV9xgYUwLtGK3TU2xuTIPwuXvSy7eoObVE8Kaq4MWIsH4eur_Rdgifi8K4n1M_AJNg6u_lykR0IXJOhB1URuHGy6Pd6BAY24tKKEjBIJ3azRCc17fuhZL_fKq5KiBoMDRYzP_mzDJYwhhMuIAEqCXVzLWVhc3QtMTDrCA.m3u8
+
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
@@ -27,9 +30,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/91920f8c1ac64beaaf70f7fbc09982c8.png" tvg-id="", Somos La Pampa (1080p)
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
-https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" tvg-id="", Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
