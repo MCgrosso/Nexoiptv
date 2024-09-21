@@ -16,9 +16,6 @@
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtAEpusHhzYfxTewQTlKVzO-N1EwHY0YSwsxPvRKrbaOxNqsHTnl07ZNET2awdW1WhAsI0ScPMb5OJSy8VvJBpdajYQRbCWgHaHvK88kvXGOhaBH9AXV-YmDuWvv1lOhVKd-Mzxq402MWFbaieCn8G8F7yBCGEuGEUhcaV6d98dvG1gUQhFqLz_QFHAw0guW_x3bejj2CF0Q8jRERgPbQOU_j4zRwKdy_YkAjMZ7bUBNmr2M6hbsV234bNNboYEziM9kI9nJeq0NIAkxj5Dp08cq0ToKvrCBxymI-YCka2i4AMI4fdbcVfIe5BT_1c8EkJqfmJRfMaZ2YCFA96HPj437jutcbVvf5tybCS-LiCzwjsF8oUF98lDgnRN59jU2wDkfOnR1pglvDxg6d4pzRdOOWRfVg6pytf_92DJwvpo6vKe1TRoY5V__ldTECYhp7qnv-_SEs1mxT0efwCYLj2rAGWFDawlCl8S2cNZFNRKqJ2p_sQybEgqkVBJAuLnU2F6hvtGYMgCFnqH2YCWrHQ-IhzrQcpAQUKNecSeE4QeDO9QdLG_woIydgcQpYENH9cZbedRP5nqvAUQnhYKoanER_GLjDH2kXygrnWFelOj4JeN0DoEshWX9sBs7GqlfbB9L1u0pymWOlM80dHECLB6H1-998J4DKxNLSvgNVYBqS9fMaTixG-Rz2r7RqoteW8TZhGGPs8p68cQxamKWIT6jbLoe8rL128Yy0wLxwMHtzjZmHzVnLR344aKwQh3rNaSiiXZzKzvpTu4hP5eJqEFGFhoMz9Jz3FWzZ5gdsEEoIAEqCXVzLXdlc3QtMjC3Cg.m3u8
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
@@ -33,6 +30,9 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/PjlAB6x.jpg" tvg-id="", Telecreativa (720p)
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" tvg-id="", Telediez (360p) [Not 24/7]
 https://videohd.live:19360/8020/8020.m3u8
