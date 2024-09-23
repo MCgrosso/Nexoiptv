@@ -16,6 +16,9 @@
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cs8EfIf3TUctfNbFkjWlD2oOzmiYcHFTUI67nnKT-bI-YuX0nH7EXPX2YO9t6dcK0RgrouFNWaoXAzQLFZoMGVaseHVnzdLrfJO32B4bYvUJ8-01aIVIkCF7zo_v9uq3g8e_NM4wIUEVoEdRZiFnqd4eUyf6ZAc3MyrfgClIMdha-7XCMFwCX6j3g9DOg8tN4LzR5FvrALqSO_t2X3JwT3uCdJeT1ncC3hLXKOP8QtTxj4Jj-8aaZ0Uq29v5_InCxpTrmRF8ivaMfFRUq0HDVZrJIxwvyG9Uzj3BBYGkcDIFeOF-_d2WY10V0GAxo2Fau_k-iDkk_gIF1oeoiQIZgeZpRE1A16UiAyUQLguUhmv1IUu4h-9atPXx_L8ioA4NVrFV3YWkjHwLXScW8ZHb1iQxSRt8vcoteNTSUtnq2TDFCw53ezD4_8iItPYEoOmNxbV0sFTXCSFuIfztdaVsGO-IGpVNVCR2j2_Rf7QtN00kv7rM-Xj-zWsniFzM0SxRrBYAU7-V6hORCdyhjg9frPKoFFyMcnWKwUvy4VeFDsIpzYnnAMGEa1x7LORmQW0h-2apIrnPvBCMqKBL3T00BhE4pHrPCRScQklGwcbJM8vl1naMDa7WJD4jqYYDy3hyTXwFjkiR9ilyJ4FkO-oWf-xHNH1yuOdh19AFITvZ3asW3miWIb4i5WlmOIS8gTXhr3VB7FBvggiyv_xLSspn616Ux_Wa5aH7QwYEgvfODSIvUquSdRxBou_EyS00jo638pFlILIn5G4mtWfqQzpRUFx4Ggy-XstxFE3vZw9kek0gASoJdXMtZWFzdC0xMO8I.m3u8
+
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
@@ -30,6 +33,9 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" tvg-id="", Telecóndor Satelital (360p)
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/PjlAB6x.jpg" tvg-id="", Telecreativa (720p)
 https://panel.dattalive.com/8012/8012/playlist.m3u8
