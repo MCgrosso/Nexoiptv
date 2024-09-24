@@ -17,7 +17,7 @@
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cs4E0IPylca26U4SqAspO_Fnd_w4Xi9VxKcfwfCNSBg8VFIMEEq9SiQLhJk5-panFPcBNyZJ79ZoSPZudaqYrj2M2GqXyk5o352BataAH5fbfD5jNHDgAzlwVGRkBIost0kNLC5bxjT8E1N51ZPP9BlWM-bzdhPEcdbH4oFoGvFwG83xKb62zVP2NBoklhvmXOIFaLTWHuC-ykl4clojLvIZsP0l0yCfc7pKX1xPZdbnX4FJmaL7WDCR9N1BwUISBWMS4hShzi2H2kvfOXJhXXk-1Isma7uSNP0STA2hADdqQfjxp5XQudcY5DSwCyMnsfgGjM78dnTkWpHX-n91itRJhHWyKNnnJxCNLLpVjzteeRrgdff-reYvIO3Hz8RJn0hCGQM-1TGirotalzLBHTgbC9sl3TyUaa1CsS5sCHm3PGt5PGqejK4dZ7TQo4MVckVHLfbzKlhACD6ohZYonnxOu3Ts4vF7z_ihKCxIAnMF_6BbQUbKjOMQCwbDKLSnmnNHJSIK9OXm_zwSRQYkCIAURWz1zPaKhBBCa-0M9hi33UM1zh0ev61wcU6-3tbTM1-r6KURE9TU9TYQzCEoR3zdp8kkdgfbe-njqh08uiefdy8Sw1-wFLrqai05fQj47TLIuYy7mVHjOlZOcj3Nrs1TpFJbQ8KUbN5ocmDCIe5orHlGRDSVEECJGREOrAkbNiYSJimtff2OJxQ0pal_vF4BqtWmEXulHi_zMdHAhARDRbV-3oj97Rf1Vor1K5ZBo-gFb5ROMXjdWd7-twa_nJUaDM5wbGjUYiUyjVyB3SABKgl1cy13ZXN0LTIwugo.m3u8
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cs8EKzxts0Atw_ODXhQLbcWmeA5ZNc34ZLGkhnQTV5-drqVUqP6LopreIXhVCFU3ZA0e6xipECHJYnkvmLdgqdiHAnHAXcfCU5ksqGMBlk7W8Buv1pq58uouKSkDUznBJ5DNiJXhtlAZ_-Ov05BYkU1ir0iaYo-qyCmRsE_pGIAvF0eLDmllP3wdH5qvzH2zhiCKjt9-tZHQqDRfwA1oyWg56Sxvvn1WzImHkI1HZ3q4OMR3IgzoYLxTMwYgrOE2qISjT6EbOYYViXUZxhxuFYDgCEyvUSbL8Et6gNLeadiUc4qM9Ua1cK_5lLoJbffjY0MfanlkLXG27m3jQBMYYJbHajX16b84FWypn7yuWw-EfuS-sE0SkxGOuiGszVEwOfIX3E6NNANmnMPfWT_6wYVaydviSpP_ik2nbYOFsIDAo_dEhcYh9rueTYkwwfFdKJTIqhU9OwlnrFLNM4dFc_ZIKIvlQQg5N6I7Ep5Cb2B6nSX_MQq4T0J0r6hGfkieV5V60dFlGoM9I1SCY_4ggd4qABwxKFFOX6fOb5zFS77kntQJnwZjy1nYxRPGBmRF581ZBzg_ZjL0mY3uoqaCPTPHt43DBqXSLENa-geXwHc6Lc726KQwXrhdWz6Vfy1WGcUdTSds9vs_mBEhIFA0bLfgD8MxjhzGubZ1Za8T8vAVXGqF4dRbjt8SUuHAOk6q9zyb606w8tbntOz7Ye7jWpQlf01FbWpi3M10KDEsUSRpiGUQ48DlrZwZdqnYdUE7Fmx-4X7eQRr4IduvQveooFAkGgyOYFQvIgjPWFrrxTEgASoJdXMtZWFzdC0xMPAI.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -36,6 +36,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" tvg-id="", Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/PjlAB6x.jpg" tvg-id="", Telecreativa (720p)
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" tvg-id="", Telediez (360p) [Not 24/7]
 https://videohd.live:19360/8020/8020.m3u8
