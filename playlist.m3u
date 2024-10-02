@@ -13,8 +13,14 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CtcEUHOKh8v3WxysrOBsYPJ3Rt-fkTT9zid7KN7OFOxC55DmJDsyO7eWHMO0ExJVoI4h_2rc4KhV44HfibmyT_qbPdUrLWEuIiUPNSCNk783SIaULmDzwN63nHeLlnu24VE3plpZwDtD94EYlP9A0Xz9sCBhEYi8BPdfU7nm32okGeYONQMwHpYMgtxwIs1KLYjbR7wrpkJkbybW1U2ocfpff8ZLnUDNUaYtN9_wYFsXDF0S_Q-6MpfwzmQ1YBE3568wHrQafIN8M5diJmTlrsvSwgrDEZK9nUsI3IQeH59Kr8N_mILo_Ll0h_GtYXCH2QplPjTwJaGB-GFsfZYA_HGEqjQ5R6UeXQm0i90agOL-QsQV3m-D-bWPoImdUieH4zKp5C5Ai8rgJ32RW76Kf5k83sZn_3FmPDI5c0MjRRSljvwE1E4cZS61SFPeVJmGXYRYx5qsksFWOLe3Wpxp37kqlj3cPj9oaH_E2a5S43Nslhf4bJypJHq3MRSuBdPvXqnqhs3-FKP1sQHpxDqST0KPqF5Zn3B3MI4_HBEr5m-ZV4bfK2nlfstuB9atPvlny_9GLsMI1kMBFt2sFBiV3wTKU3grGvDrnhCCRZmGCh1zlWc48lRg1MpiI3Q7xhA-ZZS3C_I_10uWk5CEGROBvcC_V3Pk31zF4XDhUY98DW8ljjfjh92aMKN5NlvSVns9ZcuzOHfQs6mk2TmNj8GoydpAUoQbRjj8RqUyD42yJ4tLU3umfCazPSWNwq7ewTkkG0VMFcUF1d-TDs--hVWQLklx8syhwfxde2saDN_epM8UhCH78B25_SABKgl1cy1lYXN0LTEw-Ag.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CtAEwBgzShzOidbXGhnm_Zw3UdDaLurAofjqmHT34CTiUCBaOIH5-sCOof5gr1zMY5l7jcwSfXsIDUPJVh9DGVYh_Qe5XQ_XQj-58PGqbJqlfs2NxaR_WlLKhkOQg1aD_P-dSGsk3eMEXAzi6z6TIzQ1_pqGs3jsJnHpM96hTs4_ncJkO_6fCPtSR6qDUz9kh2DwItGdVsVz-wTnYinIvFYKa2VXP1TPda85p775HrbSYJe5Ej51II3jVUY0Zs_5FOrMP_dH2XqJeimX9o12P1UN-1_poqq0wC45c5Qx5Ena7HMjcdm5JTTAaqY6JVjQViK-7SU10qG6bmtGh1rQ9qedCrnTFkzB4UwkT36ocpJcP3KYFMarfx-eNTJuv5-rELg0ylc-mEo_M2-xjpuO0u3jSJkrCan9AMR3GwfbdjgM17g8bXhnUVxyJi9oecVfEu749ttUG0NvdYjOpDzLvsExM2SKe47xDxT1dvtlN1-DQEijg9OuKNCIU9PKPSuY-PdpFcpjUgNDAxS6vPNvHEK6t0n8AzNGS9DiQetRi7JsR1Z6zsVwbpEbui3iiG88rNM82KfnPEShRxf7QBpjjKYhB1z3zz7pz6XJIMR6-6c-if0BMWtIaLjGWmL6_XG359rBYiez5MB_QP8mefiSUqIU8PKMM25WWP9m2IuWeazd2kCrv3ODrKqWGOn4AQSNqyvnfpXbTunvd0WxO1qdrMsFwoCliygAYiCg6YqouMzG1F0L_lhKIXglLB2ewIkn72yifm___g9W3NI7hf2o6uMEBBoMAh-p21IjLEQcVu9wIAEqCXVzLWVhc3QtMTD4CA.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -30,9 +36,6 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/PjlAB6x.jpg" tvg-id="", Telecreativa (720p)
-https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" tvg-id="", Telediez (360p) [Not 24/7]
 https://videohd.live:19360/8020/8020.m3u8
