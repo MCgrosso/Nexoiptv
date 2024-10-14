@@ -16,6 +16,9 @@
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CtAE5_FqLieak4ssrtm_Ig7YzWWi9J7hUmr_908A8AW0-EzRZwcV4pz1imEs96CX64cKl8hrdFMFVFEEQLyUcrRRCkFsd5i5s3Pt1K974qlElKANsxEQw956gXp0NLpJwYG446cBxGMTFoSc3_pPf3j0FGO3o1lGV8nH-9xOMZk7Tc_5t1Zs2D1mUGGy-cBlFHrD4AZod5BwSJmyTFZBVeVlzwxXT8rPF2wJYni8jrM3TiIyaCwMX0719tKG_idcARS7z5ZODx9w2ooKTbV5OAABXUoEjaDFZMjRwyuUa26v5iL-KSQ6OGyfQBzam5FRkYnklC0jbEQ5sG6Bt7xzA2d0roDFzQ6mSijycfcb129cGpEgu_BsyGu76zgoP2boWaX6WOfiA-NoSe-4mV2i07AxMmda9NxBeBThwWYfSE7Q4rrtISmVfd_5aLaTV4blgV2n04z7VyyDbN3JZZp27SJbRWytTTGDtTlbQMOWP4J7VDdLfioWe7ooIjBwWqEsLVHSPod19-KhExfd9SKRw_paWksMU01jYtzZwMivfjqvg_YwnYO0phemc5NLikwXzpdwsSacS2FeUIJCvjEJYXpZbhmKgKEEmG1NBcpPYke8l1y_0TgEsF8RE8w8Vm67PDJxhboVr-t0GptbVPIrJhRMLYeJH7NqUc4lviurewbs7Z1Jum-RMCXGReeeYvnS-gGCNt9SrbfUoEjTYeGPe59LsdmLER63FnaJixXMf_3HMP8hOrStYrq2bb_zRDPzW3rNXtkwDkFcM0E14OB3RncDKBoM7LjIOliixI2SKJx3IAEqCXVzLWVhc3QtMTCECQ.m3u8
+
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
@@ -72,3 +75,6 @@ http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe (3)
 http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" tvg-id="", TNT Sports
+http://45.5.151.151:8000/play/a002/index.m3u8
