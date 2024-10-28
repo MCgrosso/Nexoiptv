@@ -13,8 +13,14 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CtcEN8GJZlQ5hFqBfNrPiWznZgthFWlB-CL6yHZQYu4MItQTmSEB5MMxLp1VKaqHJNQ5yRMsd9BZtsgFcKFPdaAza1l1eS-j_EWDT0ttDkxe_LlzJJm-bRTlc_hfZeknowOv8YIJz0qFiNyt0djoe484uiBAyhDbrCFiPNnBG9WQXfKzlqc9lKRjm_GllXU0c6eRtw3aTYKAl0NU4PhkOb9GZ_Tojrf4rwo7xTPPXR8qW6aAUQ-PujN4t1fgDz5pvHRWcXLpk-rTLOBctLwmXWXFF2TQTwyKE2dNmFjZ1_kdhU0R57ibNH3bYcWVeIWVDcUNjm41ih-7AVuvP-tubK6udS3L2mJdHKWk38gOfX-ryR9eJowfUvP8CJHQFfEG14qrfdfOzGN92f64EVDt27VaG6kLOZenYN7uUFRBCqh__IfT_BZJtKtRrLtArFW1VeC82vkBomDj5teHWQys5fi-5MJVQrbsV_tXEva5KPVQLuXqz08t2NFBd2Vb5lBoX9XfLK3pm8sptbeT1xIn5B7BQSXTy94Ce9iJbTvBy1pRdKMGHGw6T6W68s3dO16Jv3L94hwYiS1Z4f8q7izxdSwMGmEQL29-ph8O8rWSTQfUWwqNsPvCncmo7N4b_4v4pCwRfzp4tZGfXi1rTPllGjtWmbi3Bo6X9FoO6ehIP0VOC3EKTAmTWkBj6fn16SW67FbE1lpcAva-NCjbEUnVdoRygzLEBn0vhu7DvCgulILKGz20Zwop3DKmAPfzdKntfOUT3dUnsIsg5Ngj6canmTXz3wjsYDrvDs0aDLDLTOxGuhHVkRMh9SABKglldS13ZXN0LTIw3Qo.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CtAE5NLoyuQApcCDtImT7N_E7J01x-x1vgM9S0qof14O-zaozAK0xtBHkEIJEfIjJlOwIchoPi41w_73j7zTylRCLXq-AZwh3N4rdUAICMJ-3GamRZwoNENg77NSMlziKdHYzs-D1yINBKpugZvjyfIhCmtR9uwnYHLiRSZpC6PSmtUJBTG85yp3kba3Zh_ph7iiRD-kJt4fyPuRx04cJ2r2YHyroBmWHUp-mcHIgtWdBx-AXPpDhQZPo47ovhFYaUsrEGLsQkoCHD37mDgm8H0U0lU8EC4eUpKXujuvB3nAJXGAdmbCfGuoCUFUTdPi2Q--Q91STGrmKSqu8-oeC3HizIk_p9WLfnWpPN7OgLCwtaq4HgvrFnNS8kImx7LgsWI3uaeguwNROdR0OWe7rd6xNtYR6j5jmUpR64I4T6vsjOVGfOV8FUkg8PpI5F_2z50dsI8DKZ7-19yJpi6q2UZddKTaEpLJMaK1UhxDO4coBiIYe2hsELAZeXEKeVsAGEUfhTKwkJRMkSIjTaA7Fr8kGDfXzhRpg8kRWqsKPWW6gz4IPw_9PrVN32gIJNSsEO7JzaJ2lqhdzpUl_6v7rifUpROggTIUskpmijtdrN25hIfBJwn_DB2kGrE0gymgA4g-J-NIN__sQlr2liUHt-Yu2xWkBHWJYtlHbgEbKR6h4yaSn3TN11f6g-y4N3MUiYY_wNznGyKxRNV0IKX2UMliAZPML59Ej0GpI1TwuzZMRsXEHDL5NK7QjdgEDlZpSyJMFnl80c_KnuCqFsfXgMkDXxoMmPoUHkFVBhxcIXDBIAEqCWV1LXdlc3QtMjDdCg.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
