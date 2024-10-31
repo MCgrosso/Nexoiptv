@@ -1,79 +1,79 @@
-2024-10-31 06:18:51,167 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2024-10-31 06:18:51,397 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
-2024-10-31 06:18:51,584 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
-2024-10-31 06:18:52,071 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
-2024-10-31 06:18:52,464 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
-2024-10-31 06:18:52,878 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
-2024-10-31 06:18:53,301 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
-2024-10-31 06:18:53,525 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
-2024-10-31 06:18:53,530 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
-2024-10-31 06:18:53,531 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
-2024-10-31 06:18:54,112 - debug - URL Streams https://www.twitch.tv/tycsports: {}
-2024-10-31 06:18:54,321 - debug - URL Streams https://www.youtube.com/@RadioTU/live: {}
-2024-10-31 06:18:54,621 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
-2024-10-31 06:18:54,964 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
-2024-10-31 06:18:55,279 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
-2024-10-31 06:18:55,572 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
-2024-10-31 06:18:56,841 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
-2024-10-31 06:18:58,379 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2024-10-31 06:18:58,637 - debug - URL Streams https://www.twitch.tv/telefe: {}
-2024-10-31 06:19:00,324 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
-2024-10-31 06:19:00,435 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
-2024-10-31 06:19:01,070 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
-2024-10-31 06:19:01,344 - debug - URL Streams https://www.twitch.tv/tt221qla: {}
-2024-10-31 06:19:01,577 - debug - URL Streams https://www.twitch.tv/anx215: {}
-2024-10-31 06:19:02,300 - debug - URL Streams https://stream1.sersat.com/hls/garagetv.m3u8: <Response [200]>
-2024-10-31 06:19:32,512 - error - URL Error https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8: HTTPSConnectionPool(host='5fb24b460df87.streamlock.net', port=443): Max retries exceeded with url: /live-cont.ar/deportv/chunklist_w332315447.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8401f243a0>, 'Connection to 5fb24b460df87.streamlock.net timed out. (connect timeout=15)'))
-2024-10-31 06:19:35,080 - debug - URL Streams https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8: <Response [200]>
-2024-10-31 06:20:05,200 - error - URL Error https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /megaclassics/megaclassics/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8401f24a30>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
-2024-10-31 06:20:35,356 - error - URL Error https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /novakidstv/novakidstv/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8401f1a200>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
-2024-10-31 06:20:37,603 - error - URL Error https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8: HTTPSConnectionPool(host='tastemadees16intl-samsungmexico.amagi.tv', port=443): Max retries exceeded with url: /playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8401f1b850>: Failed to establish a new connection: [Errno -2] Name or service not known'))
-2024-10-31 06:21:07,736 - error - URL Error https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /telocuento/telocuento/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8401f24550>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
-2024-10-31 06:21:08,049 - error - URL Error https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8: HTTPSConnectionPool(host='tv.initium.net.ar', port=3939): Max retries exceeded with url: /live/tectvmainlive.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8401f24520>: Failed to establish a new connection: [Errno -2] Name or service not known'))
-2024-10-31 06:21:38,128 - error - URL Error https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /techscience365/techscience365/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8401f256c0>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
-2024-10-31 06:21:38,634 - debug - URL Streams https://videohd.live:19360/8016/8016.m3u8: <Response [200]>
-2024-10-31 06:21:39,200 - error - URL Error https://panel.dattalive.com/8012/8012/playlist.m3u8: HTTPSConnectionPool(host='panel.dattalive.com', port=443): Max retries exceeded with url: /8012/8012/playlist.m3u8 (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1007)')))
-2024-10-31 06:21:40,509 - debug - URL Streams https://videohd.live:19360/8020/8020.m3u8: <Response [200]>
-2024-10-31 06:21:40,802 - debug - URL Streams https://www.youtube.com/@encuentro/live: {}
-2024-10-31 06:21:41,009 - debug - URL Streams http://120296262812776659.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776659.ts: <Response [200]>
-2024-10-31 06:21:41,232 - debug - URL Streams http://120296262812776660.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776660.ts: <Response [200]>
-2024-10-31 06:21:41,375 - debug - URL Streams https://www.youtube.com/@CanalPakapaka/live: {}
-2024-10-31 06:21:41,575 - debug - URL Streams http://120296262812776727.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776727.ts: <Response [200]>
-2024-10-31 06:21:41,771 - debug - URL Streams http://120296262812776728.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776728.ts: <Response [200]>
-2024-10-31 06:21:42,008 - debug - URL Streams https://www.twitch.tv/995k_wttt: {}
-2024-10-31 06:21:42,213 - debug - URL Streams http://120296262812781933.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/781933.ts: <Response [200]>
-2024-10-31 06:21:42,694 - debug - URL Streams https://www.youtube.com/@CanalKZO/live: {}
-2024-10-31 06:21:44,137 - debug - URL Streams http://120296262812762025.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/762025.ts: <Response [200]>
-2024-10-31 06:21:44,654 - debug - URL Streams https://www.youtube.com/todonoticias/live: {}
-2024-10-31 06:21:45,125 - debug - URL Streams https://www.youtube.com/@c5n/live: {}
-2024-10-31 06:21:45,536 - debug - URL Streams https://www.youtube.com/@canal26/live: {}
-2024-10-31 06:21:45,988 - debug - URL Streams https://www.youtube.com/@cronicatv/live: {}
-2024-10-31 06:21:46,492 - debug - URL Streams https://www.youtube.com/@lanacion/live: {}
-2024-10-31 06:21:47,060 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
-2024-10-31 06:21:47,324 - debug - URL Streams http://120296262812776640.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776640.ts: <Response [200]>
-2024-10-31 06:21:47,554 - debug - URL Streams http://120296262812776641.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776641.ts: <Response [200]>
-2024-10-31 06:21:48,035 - debug - URL Streams https://www.youtube.com/@CanalNetTVAr/live: {}
-2024-10-31 06:21:48,265 - debug - URL Streams http://120296262812315329.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/315329.ts: <Response [200]>
-2024-10-31 06:21:48,528 - debug - URL Streams https://www.twitch.tv/vkkurt29x: {}
-2024-10-31 06:21:48,807 - debug - URL Streams https://www.twitch.tv/cb_x45ll: {}
-2024-10-31 06:21:49,052 - debug - URL Streams https://www.twitch.tv/ntn_009kl: {}
-2024-10-31 06:21:49,369 - debug - URL Streams https://www.twitch.tv/tt221qla: {}
-2024-10-31 06:21:49,621 - debug - URL Streams https://www.twitch.tv/anx215: {}
-2024-10-31 06:21:49,851 - debug - URL Streams https://www.twitch.tv/uvch022: {}
-2024-10-31 06:21:50,178 - debug - URL Streams https://www.twitch.tv/cc_x24ff: {}
-2024-10-31 06:21:50,420 - debug - URL Streams https://www.twitch.tv/war0124: {}
-2024-10-31 06:21:50,729 - debug - URL Streams https://www.twitch.tv/nt_021ltx: {}
-2024-10-31 06:21:51,079 - debug - URL Streams https://www.twitch.tv/bfex055: {}
-2024-10-31 06:21:51,320 - debug - URL Streams https://www.twitch.tv/daxtr5gtx: {}
-2024-10-31 06:21:51,680 - debug - URL Streams https://www.twitch.tv/cicnl1451: {}
-2024-10-31 06:21:51,929 - debug - URL Streams https://www.twitch.tv/dt_yy83: {}
-2024-10-31 06:21:52,428 - debug - URL Streams https://www.twitch.tv/vdt_51tt: {}
-2024-10-31 06:21:52,694 - debug - URL Streams https://www.twitch.tv/id_10q: {}
-2024-10-31 06:21:53,351 - debug - URL Streams https://stream1.sersat.com/hls/garagetv.m3u8: <Response [200]>
-2024-10-31 06:21:53,544 - debug - URL Streams https://www.youtube.com/@canaldeportv/live: {}
-2024-10-31 06:21:53,777 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
-2024-10-31 06:21:53,970 - debug - URL Streams http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts: <Response [200]>
-2024-10-31 06:21:54,162 - debug - URL Streams http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts: <Response [200]>
-2024-10-31 06:21:54,755 - debug - URL Streams https://www.youtube.com/@cnnee/live: {}
-2024-10-31 06:21:55,317 - debug - URL Streams https://www.youtube.com/@France24_es/live: {}
-2024-10-31 06:21:55,935 - debug - URL Streams https://www.youtube.com/@dwespanol/live: {}
+2024-10-31 09:13:55,095 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2024-10-31 09:13:55,401 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
+2024-10-31 09:13:55,823 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
+2024-10-31 09:13:56,319 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
+2024-10-31 09:13:56,722 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
+2024-10-31 09:13:57,246 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
+2024-10-31 09:13:57,767 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
+2024-10-31 09:13:58,015 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
+2024-10-31 09:13:58,019 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
+2024-10-31 09:13:58,020 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
+2024-10-31 09:13:58,456 - debug - URL Streams https://www.twitch.tv/tycsports: {}
+2024-10-31 09:13:58,662 - debug - URL Streams https://www.youtube.com/@RadioTU/live: {}
+2024-10-31 09:13:58,978 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
+2024-10-31 09:13:59,278 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
+2024-10-31 09:13:59,648 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
+2024-10-31 09:13:59,930 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
+2024-10-31 09:14:01,786 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
+2024-10-31 09:14:03,184 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2024-10-31 09:14:03,532 - debug - URL Streams https://www.twitch.tv/telefe: {}
+2024-10-31 09:14:05,444 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2024-10-31 09:14:05,542 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
+2024-10-31 09:14:06,171 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2024-10-31 09:14:06,453 - debug - URL Streams https://www.twitch.tv/tt221qla: {}
+2024-10-31 09:14:06,734 - debug - URL Streams https://www.twitch.tv/anx215: {}
+2024-10-31 09:14:07,389 - debug - URL Streams https://stream1.sersat.com/hls/garagetv.m3u8: <Response [200]>
+2024-10-31 09:14:37,549 - error - URL Error https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8: HTTPSConnectionPool(host='5fb24b460df87.streamlock.net', port=443): Max retries exceeded with url: /live-cont.ar/deportv/chunklist_w332315447.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd5fef314b0>, 'Connection to 5fb24b460df87.streamlock.net timed out. (connect timeout=15)'))
+2024-10-31 09:14:40,389 - debug - URL Streams https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8: <Response [200]>
+2024-10-31 09:15:10,563 - error - URL Error https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /megaclassics/megaclassics/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd5fef30e20>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
+2024-10-31 09:15:40,691 - error - URL Error https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /novakidstv/novakidstv/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd5fef29ed0>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
+2024-10-31 09:15:42,792 - error - URL Error https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8: HTTPSConnectionPool(host='tastemadees16intl-samsungmexico.amagi.tv', port=443): Max retries exceeded with url: /playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd5fef2bbe0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2024-10-31 09:16:12,916 - error - URL Error https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /telocuento/telocuento/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd5fef31030>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
+2024-10-31 09:16:13,270 - error - URL Error https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8: HTTPSConnectionPool(host='tv.initium.net.ar', port=3939): Max retries exceeded with url: /live/tectvmainlive.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd5fef30a60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2024-10-31 09:16:43,448 - error - URL Error https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /techscience365/techscience365/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd5fef30190>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
+2024-10-31 09:16:43,796 - debug - URL Streams https://videohd.live:19360/8016/8016.m3u8: <Response [200]>
+2024-10-31 09:16:45,658 - error - URL Error https://panel.dattalive.com/8012/8012/playlist.m3u8: HTTPSConnectionPool(host='panel.dattalive.com', port=443): Max retries exceeded with url: /8012/8012/playlist.m3u8 (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1007)')))
+2024-10-31 09:16:46,867 - debug - URL Streams https://videohd.live:19360/8020/8020.m3u8: <Response [200]>
+2024-10-31 09:16:47,206 - debug - URL Streams https://www.youtube.com/@encuentro/live: {}
+2024-10-31 09:16:47,442 - debug - URL Streams http://120296262812776659.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776659.ts: <Response [200]>
+2024-10-31 09:16:47,676 - debug - URL Streams http://120296262812776660.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776660.ts: <Response [200]>
+2024-10-31 09:16:47,832 - debug - URL Streams https://www.youtube.com/@CanalPakapaka/live: {}
+2024-10-31 09:16:48,100 - debug - URL Streams http://120296262812776727.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776727.ts: <Response [200]>
+2024-10-31 09:16:48,333 - debug - URL Streams http://120296262812776728.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776728.ts: <Response [200]>
+2024-10-31 09:16:48,624 - debug - URL Streams https://www.twitch.tv/995k_wttt: {}
+2024-10-31 09:16:48,843 - debug - URL Streams http://120296262812781933.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/781933.ts: <Response [200]>
+2024-10-31 09:16:49,310 - debug - URL Streams https://www.youtube.com/@CanalKZO/live: {}
+2024-10-31 09:16:50,845 - debug - URL Streams http://120296262812762025.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/762025.ts: <Response [200]>
+2024-10-31 09:16:51,429 - debug - URL Streams https://www.youtube.com/todonoticias/live: {}
+2024-10-31 09:16:51,993 - debug - URL Streams https://www.youtube.com/@c5n/live: {}
+2024-10-31 09:16:52,510 - debug - URL Streams https://www.youtube.com/@canal26/live: {}
+2024-10-31 09:16:53,161 - debug - URL Streams https://www.youtube.com/@cronicatv/live: {}
+2024-10-31 09:16:53,735 - debug - URL Streams https://www.youtube.com/@lanacion/live: {}
+2024-10-31 09:16:54,329 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2024-10-31 09:16:54,547 - debug - URL Streams http://120296262812776640.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776640.ts: <Response [200]>
+2024-10-31 09:16:54,769 - debug - URL Streams http://120296262812776641.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776641.ts: <Response [200]>
+2024-10-31 09:16:55,298 - debug - URL Streams https://www.youtube.com/@CanalNetTVAr/live: {}
+2024-10-31 09:16:55,526 - debug - URL Streams http://120296262812315329.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/315329.ts: <Response [200]>
+2024-10-31 09:16:55,792 - debug - URL Streams https://www.twitch.tv/vkkurt29x: {}
+2024-10-31 09:16:56,076 - debug - URL Streams https://www.twitch.tv/cb_x45ll: {}
+2024-10-31 09:16:56,348 - debug - URL Streams https://www.twitch.tv/ntn_009kl: {}
+2024-10-31 09:16:56,634 - debug - URL Streams https://www.twitch.tv/tt221qla: {}
+2024-10-31 09:16:56,950 - debug - URL Streams https://www.twitch.tv/anx215: {}
+2024-10-31 09:16:57,201 - debug - URL Streams https://www.twitch.tv/uvch022: {}
+2024-10-31 09:16:57,531 - debug - URL Streams https://www.twitch.tv/cc_x24ff: {}
+2024-10-31 09:16:57,810 - debug - URL Streams https://www.twitch.tv/war0124: {}
+2024-10-31 09:16:58,101 - debug - URL Streams https://www.twitch.tv/nt_021ltx: {}
+2024-10-31 09:16:58,426 - debug - URL Streams https://www.twitch.tv/bfex055: {}
+2024-10-31 09:16:58,676 - debug - URL Streams https://www.twitch.tv/daxtr5gtx: {}
+2024-10-31 09:16:58,967 - debug - URL Streams https://www.twitch.tv/cicnl1451: {}
+2024-10-31 09:16:59,227 - debug - URL Streams https://www.twitch.tv/dt_yy83: {}
+2024-10-31 09:16:59,489 - debug - URL Streams https://www.twitch.tv/vdt_51tt: {}
+2024-10-31 09:16:59,759 - debug - URL Streams https://www.twitch.tv/id_10q: {}
+2024-10-31 09:17:00,403 - debug - URL Streams https://stream1.sersat.com/hls/garagetv.m3u8: <Response [200]>
+2024-10-31 09:17:00,625 - debug - URL Streams https://www.youtube.com/@canaldeportv/live: {}
+2024-10-31 09:17:00,882 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2024-10-31 09:17:01,102 - debug - URL Streams http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts: <Response [200]>
+2024-10-31 09:17:01,330 - debug - URL Streams http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts: <Response [200]>
+2024-10-31 09:17:01,925 - debug - URL Streams https://www.youtube.com/@cnnee/live: {}
+2024-10-31 09:17:02,722 - debug - URL Streams https://www.youtube.com/@France24_es/live: {}
+2024-10-31 09:17:03,402 - debug - URL Streams https://www.youtube.com/@dwespanol/live: {}
