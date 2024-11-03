@@ -13,6 +13,9 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtUErtw3mExSkkrTrxXn-ymT9Wdr5GMbaaEhbwfVp0TRu4qrcmK-auUBy8_T2MwCzjubYrWMT7P7B_dFNlOywmV471VjqzrsPS4IBWRZb-aTMhW_d9NZ3NVSwVe4cfC8R2Zib3KH-1lzSoQoX9wZdvDhWP689zfQZxMuL-AweHn5nHNQxLGhqokwBrHEulX-EPeC0i7LA3_jC1fBDyedVHUHE-8Fh-4dVOBEYMxgjXsNv8iIR9Dh5y6je2duOtPMjVFrLoJyyaNqFm5A9YpeT-MKa0lrQtyisibr_tWLolfU774Ak1wA5FdnLEHpzwEXJj3U7oyrNQpPFP2fl1zSrA-Qi8HcQIcWJUaTg74AY0y8xV8VIKvzOfKAvFF8JStkjgCS6tsV9wyVxdJGDrPh0vSZ67SlEvLDM66suZQM3ZZMBQ9OPt27qUXzq54gr3iUFRLeMccKu2BnDGb7jqkjwYPBcciCAmsr0vWyjbT84LvEYlmzKgazLeFfBogmCPDbfyauDn7e4e77tIx55aH3aHp9L7p6Zqf-1gXPPSv1_OXWrPoSHY1G2Do8pM2t-1a0IpmW18n1S9djWupz8GnPPbtBhV_4_pJRJYYU-mb6qWeMannpAl_alFHt_RjeTXCkjFRgpuPEpF8LfiX7GXL2zIQBAogH4kKmDax9Q9A0GPG2OZpi_12DymH9hGcmxTTTaM-pRjzAzCN7DFnaR68XxipWC3lOkosv4E5uLGlVB9plRArJzhIAR1PsE78euz47kH54Xn0cwT8kHph-p2GhZImPMTn3Nq-TGgx9mBJ9qg_gslfTiuQgASoJdXMtd2VzdC0yMOIK.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -33,9 +36,6 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" tvg-id="", Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" tvg-id="", Telediez (360p) [Not 24/7]
-https://videohd.live:19360/8020/8020.m3u8
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png" tvg-id="", Encuentro (2)
 http://120296262812776659.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776659.ts
