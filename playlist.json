@@ -30,35 +30,6 @@
   },
   {
     "id": "",
-    "name": "Telefe  streaming",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Streaming"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CtAEO4E7ss-lgcMx08Cw5gYA2eH7FX8-BARUfPPVbFK7EVkanGFd9ggkSrm6UnpacwNE7ogablFtsDopni1kq8SE3wU863WWv94dDwIzFcQBk5V1h4MEktJM3DdAwBndsP-kwX4FNd_wBv9Zd3kZJAsiU_7J3KLrhRLthMKVb2By9_jrAMRYbHT4ujDybeUPf58kqNYgpeGDpemqDKGk3K7tCzztdUrvOLFWQYuts_LyJwdL9Aw3auj8TwjjX_1SVQzDyYCg-1SIwn0-7nq6G4Pzsyi1rO5vTgF0GiMWcjbdCVlFs7RzYr--WJvibw1uY9N1whYZQ7mUHOJ1RrRQ2l3bxRAA1fj7bT7ZPERJ20CDf4HwxEbG079afbfkPCi_cJ-9g_GKsvGesesmb00qCiAtUkk4DvShIYlW2IqmMPl_3vLzQXDexPiEDSyqsFVqTPsIj88dgKdFLWWBY89FquQd41ItQO9fBRCBPaUhwzOT1qzRkGhzEtNwuwSoBP0EDQxTKaXPUtPD6jQKfy1ZUWn4ltarazlMv-TeIyl35L9tOO0OMv5LYugxJPtLniVuzlB8ArsYDUAWnBLzmA-1hPCN9aJeHJy5tJsziKK_8mswW2foJoMz18noBnPUb_q7y-yp24Ql6cha6g6czOhOtN4Lw3Tir_4jG7ZDaIHvyYyxH3_2hEGjdUDprSOgRW0x9cyabvBFGahymFun5baVrodAMGnG_XPR9Vq7mZn6lUlGjNOHkLjFiZDEOAHxrfOZFWaRIK0rY226B5fCHNPFM8H5fRoMlPbYU_yj2_wz4bs0IAEqCXVzLWVhc3QtMTCaCQ.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"
-  },
-  {
-    "id": "",
     "name": "America  Tv",
     "alt_names": [
       ""
@@ -114,6 +85,35 @@
     "replaced_by": "",
     "website": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png"
+  },
+  {
+    "id": "",
+    "name": "El Garage TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Deportes"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stream1.sersat.com/hls/garagetv.m3u8",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748"
   },
   {
     "id": "",
@@ -520,6 +520,35 @@
     "replaced_by": "",
     "website": "http://120296262812315329.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/315329.ts",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png"
+  },
+  {
+    "id": "",
+    "name": "El Garage TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Deportes"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stream1.sersat.com/hls/garagetv.m3u8",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748"
   },
   {
     "id": "",
