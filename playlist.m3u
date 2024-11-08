@@ -13,6 +13,9 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuYEcDTX4s_HWSXMmE3rKT-c-Y8Fb6KSq3-innOXl0Ik_-K1tTJKXM52W_xI3gSwNai3olPHSpBc_g0Ho7RbtlfeKqDDpmrfChMiakKF3E1MGembxicswVwWBSe_xzgbG4iV2doVjvOd1cAAw1gYO8QDoDVHCEI_hiz9BGSc_lfOWsAvSGk4UlrIfk7sp3w0mTqGWGhoXLAZjK-GCm3GW7s8cHM13ywVWD8oMLVWxDR1WM2zueCrNBWZw32WVg7RvXgKwntWmxbXDmo_ww3O60ABgPSW4UhezFVMLW6opRmacsk5Yt_bF2CF5-7XdmLeDzKFIB3ueN0mmabYUyUSK_ogCtsfvYvzFAr9HeLGlUuXgM4zoKGbrXrjBB8qdVSDsPTIAUFReY8aKcIHCPAO4tBWeaoLaYlLCUTd4hLEjzi9cneTV1TzCPXYyNN3_QhDGxz9kUeOtaNF7YULCBJq_i6ExXkBe2Nt5IMZOVDehcvnMLRLmNyqtHkzrXwPj94Nlhp3OQ7RNQs2XQ915LsjRZ-pK3xm_J65AYb6pZECk7yjeKQ8XO3BuealnQrQLnG-U07OSDLHrUGig_JBvHlULd_DJ5twTzTDUJFn_lGMZo4wknojaAQREGV9QQ0HODYs40UzECTEGA2En04ODVXwpvltyqC3Q3K9dZ-Uj5NZ3NnjRaLujOUYLPOina30IowrU9u7Jvd4ylQPYSGs_a65MRSFJRKiE2UC2bmdeZS1s0tFvc5c7z8ewYD_EOgnLrQSMFD_s2hroFYIH4Zc5SwqqEUmF-ZnzbBEPHdT_IhJcMN-z3RuUXjTugAaDK-0RJLEvSoE5_rztyABKgl1cy1lYXN0LTEwnQk.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -22,9 +25,6 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" tvg-id="", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" tvg-id="", El Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/91920f8c1ac64beaaf70f7fbc09982c8.png" tvg-id="", Somos La Pampa (1080p)
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
@@ -33,6 +33,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" tvg-id="", Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" tvg-id="", Telediez (360p) [Not 24/7]
+https://videohd.live:19360/8020/8020.m3u8
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png" tvg-id="", Encuentro (2)
 http://120296262812776659.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776659.ts
@@ -63,9 +66,6 @@ http://120296262812776641.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776641.ts
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png" tvg-id="", Net TV (2)
 http://120296262812315329.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/315329.ts
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" tvg-id="", El Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe (2)
 http://120296262812776742.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776742.ts
