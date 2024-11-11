@@ -30,35 +30,6 @@
   },
   {
     "id": "",
-    "name": "Telefe  streaming",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Streaming"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/Cs8EVyPHVERbtBRhxdhQx3k00YQo51PomR16olhIkSrVW9Qf469eq_D0kfgtc6q-fwUKlyAPJ0UGlovD9xmqyDIZEf7Q7snUKAlsn5Mi-AxTsbLNNyiddiirLwjJxWlCn8ThVz1-GGWhtva6PkP-0z5bjMoaeKH6qeWtopFJtJcilLWHQstLOE51IglCkGLZtIef3jbEQHwp6cSpvurP5kLZrPf_E854fWeq7s6_8zTrTEqG-aHJAuyB-yGs8uTBzMASDrA7iJVwT0uTeV4bE0Ua1pi8sRP17rrCWnC4MM5cP826-sNuzs-E0lcKjamtbeFvK-K3taDzdGAJgn3zLSdhRvUm4eZSUYZ9vQU2jZA5cdnGh-KlyKNoF_EB_bljzNBcPxOW_hSWffnE19T6DddKoOZ9-hASjD9ZyOdHc2BlfrP5f13ykDztgLY5hwOvpMf-ZbMlBr4uUyuoimzgYx4vSafKwvFlSonvN6VaqWcNyjIhXTVfPMBtkKhX2LKBfjmN8lL7PtjOTnAVfC-dkNqEsYug_8azxlOuep_PwEo5uD7iUesy9F0xsMJpmIuW52NVLPVSw4H5GB5axI0yTkL6Q-8U1fAlpieo5F9wBcc2etsDBa4KQoX-qiL_eLw6dDOBwBIvYdG364LjlX8qs_PzGNEOzIndO-Yi6JCi7HBKBplaeKpIIpMDfdn65Fa7eGG-nvZilPw97LGm6h7w31HDMv2BTcs7kOb0mkroP66FWvwpiVfk7lvXcm5GuSM9gxwjjJCAerXUxQ23h00R7phiGgw4E6ULf3XN-_-iljkgASoJdXMtZWFzdC0xMKAJ.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"
-  },
-  {
-    "id": "",
     "name": "America  Tv",
     "alt_names": [
       ""
@@ -201,6 +172,35 @@
     "replaced_by": "",
     "website": "https://videohd.live:19360/8016/8016.m3u8",
     "logo": "https://i.imgur.com/ZDenyAE.png"
+  },
+  {
+    "id": "",
+    "name": "Telec\u00f3ndor Satelital (360p)",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8",
+    "logo": "https://i.ibb.co/zbR9qhb/descarga.jpg"
   },
   {
     "id": "",
