@@ -13,11 +13,11 @@
 ######################################################################
 
 #EXTM3U
-#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/SjkDK5HYYUZ5tq0EvpLqBs0HByIfaZybYGcRsN_iLix6Yc5ufcWlYz24Z8-tCB4rX3RVU4eTy20=s68-c-k-c0x00ffffff-no-rj" tvg-id="", MundoBoca
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtYEyloooWjN8km2SOwjkioJn44PLYKpGkKbHRy1deU_ZJcJHO4mJjO8iqjIR8DUeIF8W3N2eWnM5-66OYZOmBWyU_llFv60-49Lr2uf4LLv5gNdBy3QZ8FtCiRE2rHeHFdDUciKO6iE4C3yUetgZ1hla3FbbxEYZfEda0ClL-EEnrVbMxTnvIgsMoW16R_vvDOR7PUQ0itaq4ex7HBepEVlQ_k3PHitFN7Yl5oyMda6TyxGxrnEZUDaPtRvLOo_TqXS5r3tTybtCsWWeUBWAUxtofI1NOygT21oRPm4A_KXqqv210veG7AezmwfYS-X2HCIb4n8pEwEMGi8SHBqJ1eFcpWzZj4pNhl-BTXom5UcPU15YNvDw6QxPZwR9PR06I7Ndz4tsygvJvfkWgggdK1kkkHkBQtopYJI2KJ6gPGzSAML60AHAks0Nvbs0tNWU5NNBeql53oCBcN_pORfMirnBlfyE9faD8uniecdoy-3GoRcO4d9xcE38lMvbYA1Tp_WUiAkDXfSlFEOuDGh9CBb5yOsQcjm3zkL8mxnpYkuCN8Z_beUUxchPzP7kLk7E7-OUU_BmCLMleB5FoAH3TQwjo-iso9Jy5LtQzhQfE-joc1EeyA0_ojhm6fxB0g6D9bjQqhqEUpNTwibOLNuK1bpcn3UjnPz_2U6m2nx_lQc0JigAQGpGNHIO8WoF79DhpfXdIKFUV8v24Sgc3QlWwcUQpCeYOrs_TJZL3_qcp0do6FpluK8LKqeeUbytDLyPVXo5ai3JpWcrRFEkMP9G8G3atpWX_AXQhoMpZ21iuXOfnms4qPNIAEqCXVzLXdlc3QtMjDzCg.m3u8
-
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cs0E_eWU2g_OShWMrqyL4jiL3_Z6VYCea0Uk1DXQqqzDwYNV26-YGJM2cHhxGyXdzJB2jwr_LcvW1skEY-cvKMvQqkTaUaQih9wYAPoWCD3O4462GPXCdGa0askDRD8r6fgwd2ODUfML_8v8NqBxybCCDkqvBXnszCm12btd3__SAP-O4voEDiyn2CPkz3MNENw_LNz0TLBPOT4Sq_D2FJSpbwqDIyA7osQ1nfwqIbEYjhL78vUcZ_MtTmUqr3fVdBn_c5jp3dvap-lfkW8oegTw67eI9v6ODyQ5o-5woDJH0vEPzQMEGTQvOscUw86VRQCGk4EHYWMijhbWsH5GHZeibiRbwS_ngjMT6AR82oe9hbSSH3PQGGnH-kq9DOgWJCKYugSaYoSey9WAxd1VamGKK2T4KAp4kMHQnMagcPFiuMggMGJHTDTcv2Mo3mFcgaYvOifvkRHVlwd4f6QU0fTsmKMxb1JVX21kpEKOnD-xc1YDIWukL9OtDhgTreDNSSckMZKSevk_Ggm7Ejx0C1Jx_PtNIsxlPVhmhysYOK4YwF7Ocsve-uePhzj-zmfNmlE1S-kYJWyvbKCvOH7bBX8RzoWppQvwzqvlBxDPso-IJx6cUCvzBWlHbW99e-qHCPfN88RmQpB2h0v7MmlBUES_rQz4CeSrHxMpjE-nXXEVczKtXil0fFbQd4xmNaQvzVClcF5wjTJ8Ifmp2m8SoUzgRhXwyqhsLIq5LQTcLPs6SsS7xm5a9m9E_jJ_wvA0TMuYPOwgrTxAf93pimuPwhoMVe4rdrytom5bmcRLIAEqCXVzLXdlc3QtMjDzCg.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -30,6 +30,18 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/91920f8c1ac64beaaf70f7fbc09982c8.png" tvg-id="", Somos La Pampa (1080p)
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/WlhCN7e.png" tvg-id="", Super Classics TV (360p)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://i.imgur.com/uOkAHVq.png" tvg-id="", Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/SWh8ZiH.png" tvg-id="", Te Lo Cuento y Que...!!! (360p)
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/UtqOpaY.png" tvg-id="", TechScience 365 (360p)
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="", TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
