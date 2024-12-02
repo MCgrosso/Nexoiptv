@@ -24,3 +24,12 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" tvg-id="", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" group-title="Deportes",DirecTV
+https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=73417dce4738c1a1ce2ef61f3a4fd3873a0fa838-ab7b5769357377bb16ccc29fba2b8d8a-1733183587-1733172787&remote=2803:9800:b0d1:818c:2a39:604e:b610:5017
+
+#EXTINF:-1 tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/TNT_Sports.png" group-title="Deportes",TNT Deportes
+https://cdn8.en-vivo.info/hotflix/tntsports/index.m3u8?token=f7c0a46fb999646b0283b137a2fb726d8c4c1d3a-7cb929b6f2cc65c495b92ac9ca4bbd52-1733183882-1733173082&remote=2803:9800:b0d1:818c:2a39:604e:b610:5017
+
+#EXTINF:-1 tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/ESPN_Premium.png" group-title="Deportes",ESPN Premium
+https://cdn8.en-vivo.info/hotflix/espnpremium/index.m3u8?token=83a2f98e51d051c4827523a43ae48d7a696f68e6-79dcde04e72580d787ae541eec1e53dc-1733183964-1733173164&remote=2803:9800:b0d1:818c:2a39:604e:b610:5017
