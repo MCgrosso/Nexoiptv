@@ -1,22 +1,21 @@
-2025-09-23 15:14:56,317 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
-2025-09-23 15:14:57,286 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
-2025-09-23 15:14:57,999 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
-2025-09-23 15:14:58,966 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
-2025-09-23 15:14:59,647 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
-2025-09-23 15:15:00,591 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
-2025-09-23 15:15:00,859 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
-2025-09-23 15:15:00,870 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
-2025-09-23 15:15:00,870 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
-2025-09-23 15:15:01,226 - debug - URL Streams https://www.twitch.tv/tycsports: {}
-2025-09-23 15:15:01,560 - debug - URL Streams https://www.youtube.com/@RadioTU/live: {}
-2025-09-23 15:15:01,778 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
-2025-09-23 15:15:02,026 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
-2025-09-23 15:15:02,281 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
-2025-09-23 15:15:02,467 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
-2025-09-23 15:15:04,252 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
-2025-09-23 15:15:06,222 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2025-09-23 15:15:06,375 - debug - URL Streams https://www.twitch.tv/telefe: {}
-2025-09-23 15:15:07,356 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd7ae3a75f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
-2025-09-23 15:15:08,147 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
-2025-09-23 15:15:08,299 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
-2025-09-23 15:15:08,954 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2025-09-23 18:21:50,286 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
+2025-09-23 18:21:51,084 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
+2025-09-23 18:21:51,808 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
+2025-09-23 18:21:52,703 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
+2025-09-23 18:21:53,538 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
+2025-09-23 18:21:54,262 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
+2025-09-23 18:21:54,539 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
+2025-09-23 18:21:54,549 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
+2025-09-23 18:21:54,550 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
+2025-09-23 18:21:54,905 - debug - URL Streams https://www.twitch.tv/tycsports: {}
+2025-09-23 18:21:55,169 - debug - URL Streams https://www.youtube.com/@RadioTU/live: {}
+2025-09-23 18:21:55,372 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
+2025-09-23 18:21:55,664 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
+2025-09-23 18:21:55,873 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
+2025-09-23 18:21:56,095 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
+2025-09-23 18:21:57,499 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
+2025-09-23 18:21:59,209 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2025-09-23 18:21:59,372 - debug - URL Streams https://www.twitch.tv/telefe: {}
+2025-09-23 18:22:01,770 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2025-09-23 18:22:01,856 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
+2025-09-23 18:22:02,581 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
