@@ -13,6 +13,9 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.googleusercontent.com/6bvqDyYwUN7p2uZK62OLBURQjQVzpbWZx0uFx0HdA_8-KAahMxemMNogqi7syv02QHyK5fUbF98=s176-c-k-c0x00ffffff-no-rj" tvg-id="", R&P
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760660483/ei/ozfxaImqB-2glu8P4eiLgQ8/ip/64.236.200.230/id/soGMSq8oTYc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsrnzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSWz_UJpzZNKG_eWlzhhqXEmZ1yAin6Xhn4_OzcZb06lKOz9PXifgJIqGmZYeKunK7fxwom8Ppur/spc/hcYD5XXFYvL_s_Ff0-dH-t7AV_eX28SyEWNLgIBVc5nv7e18jxKpcflLJbV-PNS6VWY/vprv/1/playlist_type/DVR/met/1760638884,/mh/gE/mm/44/mn/sn-vgqsrnzr/ms/lva/mv/u/mvi/3/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/mt/1760638184/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgd5zbElaaRdm5IZYU7YQ1BssxOK5PWqDNr9si_TQmiWkCIQCkkYv9rzg1RFbBKsKce3EAyqUvPt0S8KXVs9rk08Z5Vw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANChZw2teHJ96vmc-M6m8hvDNGeO642qK856gWsYdEDDAiA440pliWl7DoP_nu9v1vYGG6IWMt-Vz4ZQqJ6HwcxUlw%3D%3D/playlist/index.m3u8
+
 #EXTINF:-1 group-title="Aire" tvg-logo="https://yt3.ggpht.com/-yCj_5HSyR5k/AAAAAAAAAAI/AAAAAAAAAAA/7kqMak3q18Q/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
