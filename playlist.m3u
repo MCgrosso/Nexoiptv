@@ -13,9 +13,6 @@
 ######################################################################
 
 #EXTM3U
-#EXTINF:-1 group-title="Streaming" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lknWNjGUZv72Le-6lRXKP4vViQ7vylxpiOi7sme0fR0gM=s68-c-k-c0x00ffffff-no-rj" tvg-id="", Luzu TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1766169184/ei/AEZFaar8Dr-P2_gPmsqP6Q8/ip/172.184.211.69/id/n67MNerg_wQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AYUSA3AsBirJV9UsgbuAfijEswP2FIViGIj14pey302Vd5J_86WXtse0e9CBw5cUbT29mlZpICNv1Ckp/spc/wH4QqxOtfi4_RDiZ3hN2n2LKAg_qWV1Ao4ROHsyRn5Vl5EfsGqK74ipDqggovzkLryc/vprv/1/ns/23xGteIFFEXSVG7NPv1B3TQR/playlist_type/DVR/cps/102/met/1766147585,/mh/w0/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/n/Lfr3p40abqI7Qx_ZZt/mt/1766147196/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIhAO5MDs2eM89k9Dny_31fRnscuSH-8BW1R9u_mRUboHygAiANoHRehALHzuRubvN1rH1W0CnUrV7OjU3KG4TQXFsbYA%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgQmcHAzVy5Fz5DotWoiO6og-hcK6SEB6xxy1PNLtKrfsCIQC_s1spPANOu262g_PFeqG9Fz5ZJiIvirtscXw6_xDDyw%3D%3D/playlist/index.m3u8
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
