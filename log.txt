@@ -1,20 +1,20 @@
-2026-02-22 04:45:34,172 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
-2026-02-22 04:45:34,448 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
-2026-02-22 04:45:35,117 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
-2026-02-22 04:45:35,493 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
-2026-02-22 04:45:35,688 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
-2026-02-22 04:45:36,248 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
-2026-02-22 04:45:36,508 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
-2026-02-22 04:45:36,519 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
-2026-02-22 04:45:36,519 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
-2026-02-22 04:45:36,850 - debug - URL Streams https://www.twitch.tv/tycsports: {}
-2026-02-22 04:45:36,938 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
-2026-02-22 04:45:37,104 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
-2026-02-22 04:45:37,271 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
-2026-02-22 04:45:37,479 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
-2026-02-22 04:45:37,692 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
-2026-02-22 04:45:42,416 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2026-02-22 04:45:42,591 - debug - URL Streams https://www.twitch.tv/telefe: {}
-2026-02-22 04:45:44,922 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
-2026-02-22 04:45:45,118 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
-2026-02-22 04:45:45,740 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2026-02-22 06:40:52,855 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
+2026-02-22 06:40:53,166 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
+2026-02-22 06:40:53,977 - error - URL Error https://www.youtube.com/@luzutv/live: Unable to open URL: https://www.youtube.com/youtubei/v1/player (400 Client Error: Bad Request for url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8)
+2026-02-22 06:40:54,347 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
+2026-02-22 06:40:54,586 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
+2026-02-22 06:40:55,447 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
+2026-02-22 06:40:55,691 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
+2026-02-22 06:40:55,701 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
+2026-02-22 06:40:55,702 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
+2026-02-22 06:40:56,035 - debug - URL Streams https://www.twitch.tv/tycsports: {}
+2026-02-22 06:40:56,137 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
+2026-02-22 06:40:56,306 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
+2026-02-22 06:40:56,475 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
+2026-02-22 06:40:56,643 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
+2026-02-22 06:40:56,862 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
+2026-02-22 06:41:01,307 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-02-22 06:41:01,479 - debug - URL Streams https://www.twitch.tv/telefe: {}
+2026-02-22 06:41:03,733 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2026-02-22 06:41:03,819 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
+2026-02-22 06:41:04,390 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
