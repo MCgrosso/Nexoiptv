@@ -13,5 +13,11 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-id="", Telefe  streaming
+https://use21.playlist.ttvnw.net/v1/playlist/CswEUTofnWWdY1j67uLcIHfAgjI2OVE7FMBE6wtMEKsn6I6InmUFjRRqJecymuYHqCBmcB-YGEEOpgrW5TkM8OWzYWN1L-ATjUEvkpiLjbWaBcn6ByUCTFmziGZ6s-7veaLDzMpmUB1il3s9VIsDYL0sq66QuoWXuGojqvp9asZMYSRRcKKvpab2E0o0quv41bmSsESy36lA8v725jU92vspBN2kVgBHVXU15rHWVDAcH33ceqcr7tHf4RWjxbIxr_79KHwLyydOGeuL-Fq_edTVqivtLGcBKWvjjJdyJ4KlHU8syEhXDwBvGZwjbaWXlMqe4ydJjwva8vq-QrM4eeWUQCoRoFAP4peihuXZotW0QYraS50SRFMlS38OcHwAlttgjXpcxuDmwe7g9b_XyON1IvQTCkbb0slCK0tnpW34M959jTGQ-KlL7jAll7j9IC60EYxsaxm6AS4ESAKMFTgknOpID842IDzAtQE0X89zUXt67KDkpeuHQRwM-foGt-nGKcQCnoEsY9tmEYWKvEyuJ5iPDoCLVAeHPBm56TZdubwruxlYRjTLlNb5qsm6YqXxT7hKYK2ZHxKdjARtN8yLErjDsQ0_m3q1NtJtIq8y-IOWuquWvDfPxqpRV_OjNcSS4zPtI74s2pDj0je4CXF2B3obaoQwGN5vNVx9ipMCK3pi1SndKfqZsndTqhyBQxPugU5BpQ5P2nxIOEdsUryj8byxb7a-zqkcwBSeQ-84zMAmkjaLuEzIPs4iIwNYagEloP2yfip89aIWt0ZYGgzzluK73eoDV4K2Ol0gASoJdXMtZWFzdC0yMMYO.m3u8
+
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" tvg-id="", Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
