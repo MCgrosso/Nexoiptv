@@ -1,22 +1,22 @@
-2026-03-08 18:27:22,942 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
-2026-03-08 18:27:23,196 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
-2026-03-08 18:27:23,491 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
-2026-03-08 18:27:23,819 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
-2026-03-08 18:27:23,991 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
-2026-03-08 18:27:24,694 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
-2026-03-08 18:27:25,024 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
-2026-03-08 18:27:25,035 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
-2026-03-08 18:27:25,035 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
-2026-03-08 18:27:25,461 - debug - URL Streams https://www.twitch.tv/tycsports: {}
-2026-03-08 18:27:25,579 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
-2026-03-08 18:27:25,822 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
-2026-03-08 18:27:26,309 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
-2026-03-08 18:27:26,627 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
-2026-03-08 18:27:26,916 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
-2026-03-08 18:27:27,062 - error - URL Error https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8: Zstandard data is incomplete
-2026-03-08 18:27:31,319 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2026-03-08 18:27:31,564 - debug - URL Streams https://www.twitch.tv/telefe: {}
-2026-03-08 18:27:32,369 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff76388b350>: Failed to establish a new connection: [Errno 111] Connection refused'))
-2026-03-08 18:27:33,039 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
-2026-03-08 18:27:34,327 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
-2026-03-08 18:27:34,845 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2026-03-08 21:18:46,769 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
+2026-03-08 21:18:47,072 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
+2026-03-08 21:18:47,384 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
+2026-03-08 21:18:47,696 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
+2026-03-08 21:18:47,879 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
+2026-03-08 21:18:48,605 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
+2026-03-08 21:18:48,884 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
+2026-03-08 21:18:48,894 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
+2026-03-08 21:18:48,894 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
+2026-03-08 21:18:49,380 - debug - URL Streams https://www.twitch.tv/tycsports: {}
+2026-03-08 21:18:49,492 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
+2026-03-08 21:18:49,665 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
+2026-03-08 21:18:49,839 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
+2026-03-08 21:18:50,048 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
+2026-03-08 21:18:50,282 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
+2026-03-08 21:18:50,399 - error - URL Error https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8: Zstandard data is incomplete
+2026-03-08 21:18:54,705 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-03-08 21:18:54,871 - debug - URL Streams https://www.twitch.tv/telefe: {}
+2026-03-08 21:18:55,355 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f85246530e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-03-08 21:18:56,188 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2026-03-08 21:18:56,276 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
+2026-03-08 21:18:56,913 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
