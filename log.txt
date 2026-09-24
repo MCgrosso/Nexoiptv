@@ -1,23 +1,23 @@
-2026-09-24 18:47:28,289 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
-2026-09-24 18:47:29,457 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
-2026-09-24 18:47:30,126 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
-2026-09-24 18:47:30,925 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
-2026-09-24 18:47:31,834 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
-2026-09-24 18:47:32,857 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
-2026-09-24 18:47:33,229 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
-2026-09-24 18:47:33,240 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
-2026-09-24 18:47:33,240 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
-2026-09-24 18:47:33,592 - debug - URL Streams https://www.twitch.tv/tycsports: {}
-2026-09-24 18:47:33,695 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
-2026-09-24 18:47:33,876 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
-2026-09-24 18:47:34,049 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
-2026-09-24 18:47:34,236 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
-2026-09-24 18:47:34,424 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
-2026-09-24 18:47:34,785 - error - URL Error https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8: Zstandard data is incomplete
-2026-09-24 18:47:35,063 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
-2026-09-24 18:47:37,236 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2026-09-24 18:47:37,408 - debug - URL Streams https://www.twitch.tv/telefe: {}
-2026-09-24 18:48:08,572 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fac21de4560>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
-2026-09-24 18:48:09,393 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
-2026-09-24 18:48:09,492 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
-2026-09-24 18:48:10,159 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2026-09-24 23:43:09,040 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
+2026-09-24 23:43:09,708 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
+2026-09-24 23:43:10,512 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
+2026-09-24 23:43:11,216 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
+2026-09-24 23:43:11,921 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
+2026-09-24 23:43:12,691 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
+2026-09-24 23:43:13,004 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
+2026-09-24 23:43:13,015 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
+2026-09-24 23:43:13,015 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
+2026-09-24 23:43:13,364 - debug - URL Streams https://www.twitch.tv/tycsports: {}
+2026-09-24 23:43:13,513 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
+2026-09-24 23:43:13,673 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
+2026-09-24 23:43:13,836 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
+2026-09-24 23:43:14,000 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
+2026-09-24 23:43:14,164 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
+2026-09-24 23:43:14,369 - error - URL Error https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8: Zstandard data is incomplete
+2026-09-24 23:43:14,697 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
+2026-09-24 23:43:16,597 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-09-24 23:43:16,759 - debug - URL Streams https://www.twitch.tv/telefe: {}
+2026-09-24 23:43:47,289 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2536960410>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
+2026-09-24 23:43:48,103 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2026-09-24 23:43:48,221 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
+2026-09-24 23:43:48,996 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
