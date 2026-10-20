@@ -1,23 +1,23 @@
-2026-10-20 16:14:21,231 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
-2026-10-20 16:14:22,032 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
-2026-10-20 16:14:22,795 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
-2026-10-20 16:14:23,022 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
-2026-10-20 16:14:23,988 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
-2026-10-20 16:14:24,785 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
-2026-10-20 16:14:25,196 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
-2026-10-20 16:14:25,206 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
-2026-10-20 16:14:25,206 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
-2026-10-20 16:14:25,635 - debug - URL Streams https://www.twitch.tv/tycsports: {}
-2026-10-20 16:14:25,776 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
-2026-10-20 16:14:26,025 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
-2026-10-20 16:14:26,266 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
-2026-10-20 16:14:26,509 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
-2026-10-20 16:14:26,746 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
-2026-10-20 16:14:26,819 - error - URL Error https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8: HTTPSConnectionPool(host='ythls.armelin.one', port=443): Max retries exceeded with url: /channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe56dacd940>: Failed to resolve 'ythls.armelin.one' ([Errno -5] No address associated with hostname)"))
-2026-10-20 16:14:27,113 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
-2026-10-20 16:14:29,294 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2026-10-20 16:14:29,538 - debug - URL Streams https://www.twitch.tv/telefe: {}
-2026-10-20 16:14:59,936 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe56d9296a0>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
-2026-10-20 16:15:00,872 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
-2026-10-20 16:15:01,027 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
-2026-10-20 16:15:02,044 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
+2026-10-20 21:09:42,809 - debug - URL Streams https://www.youtube.com/@MiSionCEM/live: {}
+2026-10-20 21:09:44,268 - debug - URL Streams https://www.youtube.com/@ElDestapeTV/live: {}
+2026-10-20 21:09:45,476 - debug - URL Streams https://www.youtube.com/@luzutv/live: {}
+2026-10-20 21:09:46,227 - debug - URL Streams https://www.youtube.com/@fmrockandpop959/live: {}
+2026-10-20 21:09:46,851 - debug - URL Streams https://www.youtube.com/@RadioConVos89.9/live: {}
+2026-10-20 21:09:47,472 - debug - URL Streams https://www.youtube.com/@UrbanaPlayFM/live: {}
+2026-10-20 21:09:47,934 - debug - URL Streams https://www.youtube.com/@MundoBocaTV1/live: {}
+2026-10-20 21:09:47,945 - error - URL Error No PluginError TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: 
+2026-10-20 21:09:47,946 - error - URL Error TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png: No connection adapters were found for 'TyC | Streaming | https://static-cdn.jtvnw.net/jtv_user_pictures/5461c6cb-baec-4477-bfde-186c44abbeec-profile_image-70x70.png'
+2026-10-20 21:09:48,427 - debug - URL Streams https://www.twitch.tv/tycsports: {}
+2026-10-20 21:09:48,567 - error - URL Error https://www.youtube.com/@RadioTU/live: Unable to open URL: https://www.youtube.com/@RadioTU/live (404 Client Error: Not Found for url: https://www.youtube.com/@RadioTU/live)
+2026-10-20 21:09:48,812 - debug - URL Streams https://www.twitch.tv/luquitarodriguez: {}
+2026-10-20 21:09:49,073 - debug - URL Streams https://www.twitch.tv/momoladinastia: {}
+2026-10-20 21:09:49,317 - debug - URL Streams https://www.twitch.tv/peliculas2_24hs: {}
+2026-10-20 21:09:49,592 - debug - URL Streams https://www.twitch.tv/ft10x02k: {}
+2026-10-20 21:09:49,809 - error - URL Error https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8: HTTPSConnectionPool(host='ythls.armelin.one', port=443): Max retries exceeded with url: /channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f70106c9a00>: Failed to resolve 'ythls.armelin.one' ([Errno -5] No address associated with hostname)"))
+2026-10-20 21:09:50,193 - debug - URL Streams https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8: <Response [200]>
+2026-10-20 21:09:52,151 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-10-20 21:09:52,394 - debug - URL Streams https://www.twitch.tv/telefe: {}
+2026-10-20 21:10:22,778 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f70105414f0>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
+2026-10-20 21:10:23,490 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2026-10-20 21:10:23,615 - debug - URL Streams https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8: <Response [200]>
+2026-10-20 21:10:24,621 - debug - URL Streams https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8: <Response [200]>
